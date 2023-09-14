@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alumno\\Desktop\\loginhtml\\loginhtml.csproj": {}
+    "C:\\Users\\Alumno\\Desktop\\login1c#\\loginhtml.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alumno\\Desktop\\loginhtml\\loginhtml.csproj": {
+    "C:\\Users\\Alumno\\Desktop\\login1c#\\loginhtml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\loginhtml\\loginhtml.csproj",
+        "projectUniqueName": "C:\\Users\\Alumno\\Desktop\\login1c#\\loginhtml.csproj",
         "projectName": "loginhtml",
-        "projectPath": "C:\\Users\\Alumno\\Desktop\\loginhtml\\loginhtml.csproj",
+        "projectPath": "C:\\Users\\Alumno\\Desktop\\login1c#\\loginhtml.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alumno\\Desktop\\loginhtml\\obj\\",
+        "outputPath": "C:\\Users\\Alumno\\Desktop\\login1c#\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
